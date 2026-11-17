@@ -8,15 +8,15 @@ This repository distributes playable Demo packages and release information only.
 
 ## Downloads / 下载
 
-Open [**Releases / 最新下载**](https://github.com/szwgh/solo-mahjong-demo/releases/latest) and select the package for your operating system. Extract the entire ZIP before launching the game. Keep all included files together. See the bundled installation instructions for platform requirements and known limitations.
+Open [**Releases / 最新下载**](https://github.com/szwgh/solo-mahjong-demo/releases/latest) and select the package for your operating system. Windows/Linux: extract the entire ZIP before launching the game. Android: install the APK; update a same-signed older demo without uninstalling or clearing data. Keep all included files together. See the bundled installation instructions for platform requirements and known limitations.
 
-请在 **Releases** 中选择适合系统的试玩包；完整解压 ZIP 后运行，保留同目录下全部文件。系统要求及已知限制以该版本随包说明为准。
+请在 **Releases** 中选择 Windows、Linux 或 Android 试玩包；桌面 ZIP 完整解压后运行，安卓安装 APK，旧同签名试玩请直接更新，不要先卸载或清除数据，保留同目录下全部文件。系统要求及已知限制以该版本随包说明为准。
 
 ## About the Demo / 关于试玩
 
-Single-player mahjong against computer opponents with 13 regional rulesets. The Demo allows up to 10 winning hands per ruleset and 50 across all rulesets, whichever limit is reached first. Each deal counts once when any player wins; drawn deals do not count. Base mahjong can be played offline. Optional AI chat and voice are separate features; check the game for availability and settings.
+Single-player mahjong against computer opponents with 14 regional rulesets. The Demo allows up to 10 winning hands per ruleset and 50 across all rulesets, whichever limit is reached first. Each deal counts once when any player wins; drawn deals do not count. Base mahjong can be played offline. Optional AI chat and voice are separate features; check the game for availability and settings.
 
-单机麻将，支持 13 种地方玩法。每种玩法最多 10 盘、全部玩法合计最多 50 盘，以先达到的上限为准。有人胡牌即计一盘，同一次发牌只计一次，无人胡牌的流局不计。本体可离线打牌；AI 聊天和语音为可选功能，以游戏内说明与设置为准。
+单机麻将，支持 14 种地方玩法。每种玩法最多 10 盘、全部玩法合计最多 50 盘，以先达到的上限为准。有人胡牌即计一盘，同一次发牌只计一次，无人胡牌的流局不计。本体可离线打牌；AI 聊天和语音为可选功能，以游戏内说明与设置为准。
 
 ## Links / 链接
 
